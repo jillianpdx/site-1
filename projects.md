@@ -1,5 +1,5 @@
-## Research and Projects
+# Research and Projects
 
-# Vibrational Dynamics of Orb-Webs
+## Vibrational Dynamics of Orb-Webs
 
-# Stochastic Resonance in Mechanical Systems
+## Stochastic Resonance in Mechanical Systems
