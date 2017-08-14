@@ -14,6 +14,8 @@ The vibrational dynamics of spider webs play a key role in the way spiders hunt 
 #### Grinnell College Physics Department, Advisor Barbara Breen
 Stochastic resonance is a counterintuitive phenomenon whereby weak sinusoidal signals can be amplified by the presence of noise in certain nonlinear systems. Previous experiments have demonstrated stochastic resonance in electronic systems. However, we demonstrated stochastic resonance in a completely mechanical system for the first time, recruiting the noise of a flapping flag to amplify a weak oscillation imposed on an inverted pendulum in a bistable potential well. We were able to demonstrate mechanical stochastic resonance by showing that a particular non-zero amount of noise could be introduced to the nonlinear system to maximize detected signal strength. Mechanical stochastic resonance has numerous useful applications in the field of signal detection, and can be used to recruit apparently useless white noise.
 
+![Image](file:///Users/jillianrix/Desktop/Screen%20Shot%202017-08-14%20at%203.47.04%20PM.png)
+
 ## Publications
 
 Breen, B. J., & Rix, J. G. (7 December 2016). Harvesting wind energy to detect weak signals using mechanical stochastic resonance. _Physical Review E_, 94. [link]doi:10.1103/PhysRevE.94.062205
