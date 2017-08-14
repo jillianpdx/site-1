@@ -16,6 +16,6 @@ Stochastic resonance is a counterintuitive phenomenon whereby weak sinusoidal si
 
 ## Publications
 
-Breen, B. J., & Rix, J. G. (7 December 2016). Harvesting wind energy to detect weak signals using mechanical stochastic resonance. Physical Review E, 94. doi:10.1103/PhysRevE.94.062205
+Breen, B. J., & Rix, J. G. (7 December 2016). Harvesting wind energy to detect weak signals using mechanical stochastic resonance. _Physical Review E_, 94. [link]doi:10.1103/PhysRevE.94.062205
 
 ## Resume
