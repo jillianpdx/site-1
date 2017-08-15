@@ -2,6 +2,8 @@
 permalink: index.html
 ---
 
+![Image](2017-03-16 14.46.46.jpg)
+
 My name is Jillian Rix, and I'm currently an undergraduate student at Grinnell College majoring in Physics (but planning on also completing an undergraduate degree in Mechanical Engineering).
 
 My research interests and experience have mainly been in the field of nonlinear and vibrational dynamics. However, I hope to apply those interests and skills to humanitarian and environmental engineering, particularly in the realm of energy efficiency research.
