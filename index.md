@@ -9,3 +9,7 @@ My research interests and experience have mainly been in the field of nonlinear 
 [Projects and Research](projects.md)
 
 [Publications](publications.md)
+
+[Resume](resume.md)
+
+[Contact](contact.md)
