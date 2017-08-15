@@ -8,8 +8,4 @@ My research interests and experience have mainly been in the field of nonlinear 
 
 [Projects and Research](projects.md)
 
-## Publications
-
-Breen, B. J., & Rix, J. G. (7 December 2016). Harvesting wind energy to detect weak signals using mechanical stochastic resonance. _Physical Review E_, 94. [DOI](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.062205)
-
-## Resume
+[Publications](publications.md)
